@@ -150,7 +150,7 @@ fieldset[disabled] .btn-xl.active {
   background-color: #222222;
   border-color: transparent;
 }
-.navbar-custom .navbar-brand {
+.navbar-custom .navbar-brand {  
   color: #fed136;
   font-family: "Press Start 2P", "Helvetica Neue", Helvetica, Arial, cursive;
 }
