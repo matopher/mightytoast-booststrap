@@ -756,3 +756,8 @@ body {
 #more-episodes-btn{
   margin-top: 5em;
 }
+
+#notify-me-btn{
+  white-space: normal;
+  width: 25em;
+}
